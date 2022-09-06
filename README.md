@@ -9,6 +9,7 @@ This homepage gives hints on how to download the dataset and provides some infor
 We're excited to make THINGS-data openly accessible to researchers and the general public. We will make all contents of the dataset collection openly available upon publication of the manuscript. The manuscript is currently under review (date: Sept. 6th 2022). If you're interested in gaining early access, please get in touch with us (hebart [at] cbs.mpg.de)!
 
 > 📘 Early access
+>
 > For early access, the data download is restricted to the figshare collection. The OpenNeuro and OSF repositories will become public once the THINGS-data manuscript is published.
 
 ## Download from figshare
