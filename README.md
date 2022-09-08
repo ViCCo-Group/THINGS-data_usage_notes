@@ -26,7 +26,7 @@ The behavioral dataset containing 4.7 million human similarity judgements is ava
 
 # Usage notes
 
-- [fMRI data](fMRI.md)
+- [fMRI data](fmri_usage_notes.ipynb)
 
 # How to cite
 ```
